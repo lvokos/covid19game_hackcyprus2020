@@ -40,4 +40,5 @@ drink.
 
 The project was 5GB and could not be uploaded on GitHub which has a maximum 
 upload permission of 100MB. So, after communication in Slack I was told
-to share with you a Google Drive link in order to have access to it. 
+to share with you a Google Drive link in order to have access to it. The 
+link to the project: https://drive.google.com/open?id=1s00gEq0NvILRrcPYRVI-AkxtfmX-SDJJ 
